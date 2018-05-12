@@ -1,0 +1,39 @@
+_repo: '----_39287'
+_version: 0.1.0
+alternative_title:
+- The Agony Column. Japanese
+- Kumon no ran
+contributor:
+  translator:
+    agent_name: Hayashi, Kiyotoshi
+    alias: 林清俊
+    gutenberg_agent_id: '36139'
+    url: http://www.gutenberg.org/2009/agents/36139
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Biggers, Earl Derr
+    birthdate: 1884
+    deathdate: 1933
+    gutenberg_agent_id: '714'
+    url: http://www.gutenberg.org/2009/agents/714
+    wikipedia: http://en.wikipedia.org/wiki/Earl_Derr_Biggers
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39287'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Courtship -- Fiction'
+title: 苦悶の欄
+url: http://www.gutenberg.org/ebooks/39287
